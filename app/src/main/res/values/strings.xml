@@ -1,0 +1,5 @@
+<resources>
+   <string name="app_name">CryptoHeaps</string>
+    <string name="bchusd">bch to usd</string>
+    <string name="btcusd">btc to usd</string>
+</resources>
